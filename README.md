@@ -21,11 +21,10 @@
 
 **Frontend Developer** from **Bangladesh**, passionate about building clean, modern, and scalable digital experiences.
 
-✨ What defines me:  
-- Focus on **clean UI/UX**  
-- Love for **modern JavaScript frameworks**  
-- Passion for **smooth, beautiful interfaces**  
-- Driven by **continuous learning**  
+- 🔭 Currently working with **React + Node.js**
+- 🌱 Learning **Next.js**, **TypeScript**, and **Backend Essentials**
+- 🛠 Improving problem-solving & UI/UX quality
+- ⚡ Fun fact: I love creating beautiful interfaces and exploring new tools
 
 ---
 
